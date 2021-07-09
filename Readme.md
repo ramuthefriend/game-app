@@ -23,7 +23,7 @@ client2
 	java -cp target/game-app-0.0.1-SNAPSHOT.jar com.game.client.ClientApp		
 
 
-Note - Apologies due to time constraints unable to accomplish this apologies for the same .
+Note - Apologies due to time constraints unable to accomplish below approches .
 
 Should have done better
 =======================
